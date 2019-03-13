@@ -1,6 +1,6 @@
 树莓派无屏连接WIFI并在OLED屏显示IP地址
 
-![pic_0.jpg](img/pic_0.jpg)
+![pic_0.png](img/pic_0.png)
 
 # 安装系统并配置
 推荐安装Raspbian
